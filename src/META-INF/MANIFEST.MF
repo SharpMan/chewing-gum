@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Class-Path: . snifix_lib/javax.persistence.jar snifix_lib/mysql-connec
+ tor-java-5.1.18-bin.jar snifix_lib/org.eclipse.persistence.antlr.jar 
+ snifix_lib/org.eclipse.persistence.asm.jar snifix_lib/org.eclipse.per
+ sistence.core.jar snifix_lib/org.eclipse.persistence.jpa.jar snifix_l
+ ib/org.eclipse.persistence.jpa.modelgen.jar snifix_lib/org.eclipse.pe
+ rsistence.moxy.jar snifix_lib/org.eclipse.persistence.oracle.jar
+Main-Class: xmlrpc.ddos.XMLRPCDDoS
+
